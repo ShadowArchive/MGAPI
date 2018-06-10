@@ -1,8 +1,6 @@
 # MGAPI
 Miner Gate API: Good for Checking your own Balance Online.
 
-# MinerGate API
-
 _Host_: https://api.minergate.com
 
 ### Currencies List
